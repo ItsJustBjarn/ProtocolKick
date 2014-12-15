@@ -1,0 +1,20 @@
+# ProtocolKick by ItsJustBjarn
+# If you need help, PM me on the Spigot forums
+#
+# Protocolnumbers can be found in the description on the Spigot page. (47 = 1.8)
+
+protocolnumber: 47
+settings:
+   toggle:
+      kick: true
+      protocoltext: true
+      motd: true
+   messages:
+      # You can use colorcodes like &c and &l. You can also use '#newline' to get a new line.
+      kick: '&4Please consider updating to Minecraft 1.8! #newline We have been updated to 1.8'
+
+      # You can use colorcodes like &c and &l.
+      protocoltext: 'Outdated Client'
+
+      # You can use colorcodes like &c and &l. You can also use '#newline' to get a new line.
+      motd: '&cPlease update to &lMinecraft&c 1.8 to join!'

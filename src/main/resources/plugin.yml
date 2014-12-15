@@ -1,0 +1,4 @@
+name: ProtocolKick
+main : net.bjarn.bungee.protocolkick.core.Core
+version: 1.0.1
+author: ItsJustBjarn
